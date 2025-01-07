@@ -21,6 +21,7 @@
   Nếu ảnh không chứa mã QR, nó sẽ thông báo "Không nhận diện được mã QR".
 
 🎨 Demo Giao diện
+
 ![image](https://github.com/user-attachments/assets/3630b24c-9f0d-4f8a-81b3-63c0eba602ae)
 
 🛡️ Lưu ý
